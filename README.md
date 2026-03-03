@@ -1,0 +1,3 @@
+VIBECODING
+
+used Codestral / Mistral
